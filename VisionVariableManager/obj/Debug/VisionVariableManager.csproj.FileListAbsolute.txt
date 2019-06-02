@@ -1,0 +1,4 @@
+C:\安装软件\代码加密\JCVision\JCVision\VisionVariableManager\obj\Debug\VisionVariableManager.csprojAssemblyReference.cache
+C:\安装软件\代码加密\JCVision\JCVision\VisionVariableManager\obj\Debug\VisionVariableManager.VariableSettingForm.resources
+C:\安装软件\代码加密\JCVision\JCVision\VisionVariableManager\obj\Debug\VisionVariableManager.csproj.GenerateResource.cache
+C:\安装软件\代码加密\JCVision\JCVision\VisionVariableManager\obj\Debug\VisionVariableManager.csproj.CoreCompileInputs.cache

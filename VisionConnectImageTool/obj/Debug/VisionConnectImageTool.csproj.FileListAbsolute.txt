@@ -1,0 +1,5 @@
+E:\JCVision\JCVision\VisionConnectImageTool\bin\Debug\VisionConnectImageTool.dll
+E:\JCVision\JCVision\VisionConnectImageTool\bin\Debug\VisionConnectImageTool.pdb
+E:\JCVision\JCVision\VisionConnectImageTool\obj\Debug\VisionConnectImageTool.csproj.CoreCompileInputs.cache
+E:\JCVision\JCVision\VisionConnectImageTool\obj\Debug\VisionConnectImageTool.dll
+E:\JCVision\JCVision\VisionConnectImageTool\obj\Debug\VisionConnectImageTool.pdb

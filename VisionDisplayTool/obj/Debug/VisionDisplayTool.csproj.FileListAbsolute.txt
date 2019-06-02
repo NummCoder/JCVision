@@ -1,0 +1,15 @@
+E:\JCVision\JCVision\VisionDisplayTool\obj\Debug\VisionDisplayTool.DisplayControl.resources
+E:\JCVision\JCVision\VisionDisplayTool\obj\Debug\VisionDisplayTool.Resources.resources
+E:\JCVision\JCVision\VisionDisplayTool\obj\Debug\VisionDisplayTool.csproj.GenerateResource.Cache
+E:\JCVision\JCVision\VisionDisplayTool\bin\Debug\VisionDisplayTool.dll
+E:\JCVision\JCVision\VisionDisplayTool\bin\Debug\VisionDisplayTool.pdb
+E:\JCVision\JCVision\VisionDisplayTool\bin\Debug\halcondotnet.dll
+E:\JCVision\JCVision\VisionDisplayTool\bin\Debug\VisionUtil.dll
+E:\JCVision\JCVision\VisionDisplayTool\bin\Debug\NLog.dll
+E:\JCVision\JCVision\VisionDisplayTool\bin\Debug\VisionUtil.pdb
+E:\JCVision\JCVision\VisionDisplayTool\obj\Debug\VisionDisplayTool.dll
+E:\JCVision\JCVision\VisionDisplayTool\obj\Debug\VisionDisplayTool.pdb
+E:\JCVision\JCVision\VisionDisplayTool\bin\Debug\VisionInterface.dll
+E:\JCVision\JCVision\VisionDisplayTool\bin\Debug\VisionInterface.pdb
+E:\JCVision\JCVision\VisionDisplayTool\obj\Debug\VisionDisplayTool.csprojResolveAssemblyReference.cache
+E:\JCVision\JCVision\VisionDisplayTool\obj\Debug\VisionDisplayTool.csproj.CoreCompileInputs.cache

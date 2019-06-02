@@ -1,0 +1,5 @@
+E:\JCVision\JCVision\VisionMeasureTool\bin\Debug\VisionMeasureTool.dll
+E:\JCVision\JCVision\VisionMeasureTool\bin\Debug\VisionMeasureTool.pdb
+E:\JCVision\JCVision\VisionMeasureTool\obj\Debug\VisionMeasureTool.csproj.CoreCompileInputs.cache
+E:\JCVision\JCVision\VisionMeasureTool\obj\Debug\VisionMeasureTool.dll
+E:\JCVision\JCVision\VisionMeasureTool\obj\Debug\VisionMeasureTool.pdb

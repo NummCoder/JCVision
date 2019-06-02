@@ -1,0 +1,5 @@
+E:\JCVision\JCVision\VisionBarCodeTool\bin\Debug\VisionBarCodeTool.dll
+E:\JCVision\JCVision\VisionBarCodeTool\bin\Debug\VisionBarCodeTool.pdb
+E:\JCVision\JCVision\VisionBarCodeTool\obj\Debug\VisionBarCodeTool.csproj.CoreCompileInputs.cache
+E:\JCVision\JCVision\VisionBarCodeTool\obj\Debug\VisionBarCodeTool.dll
+E:\JCVision\JCVision\VisionBarCodeTool\obj\Debug\VisionBarCodeTool.pdb

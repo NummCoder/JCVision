@@ -1,0 +1,4 @@
+E:\JCVision\JCVision\VisionGrabImageTool\obj\Debug\VisionGrabImageTool.csprojResolveAssemblyReference.cache
+E:\JCVision\JCVision\VisionGrabImageTool\obj\Debug\VisionGrabImageTool.GrabImageToolForm.resources
+E:\JCVision\JCVision\VisionGrabImageTool\obj\Debug\VisionGrabImageTool.csproj.GenerateResource.Cache
+E:\JCVision\JCVision\VisionGrabImageTool\obj\Debug\VisionGrabImageTool.csproj.CoreCompileInputs.cache

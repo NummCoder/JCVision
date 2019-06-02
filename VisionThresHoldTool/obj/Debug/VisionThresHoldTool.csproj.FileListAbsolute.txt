@@ -1,0 +1,5 @@
+E:\JCVision\JCVision\VisionThresHoldTool\bin\Debug\VisionThresHoldTool.dll
+E:\JCVision\JCVision\VisionThresHoldTool\bin\Debug\VisionThresHoldTool.pdb
+E:\JCVision\JCVision\VisionThresHoldTool\obj\Debug\VisionThresHoldTool.csproj.CoreCompileInputs.cache
+E:\JCVision\JCVision\VisionThresHoldTool\obj\Debug\VisionThresHoldTool.dll
+E:\JCVision\JCVision\VisionThresHoldTool\obj\Debug\VisionThresHoldTool.pdb

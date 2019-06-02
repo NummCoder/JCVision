@@ -1,0 +1,14 @@
+E:\JCVision\JCVision\VisionHikCamera\bin\Debug\VisionHikCamera.dll
+E:\JCVision\JCVision\VisionHikCamera\bin\Debug\VisionHikCamera.pdb
+E:\JCVision\JCVision\VisionHikCamera\bin\Debug\halcondotnet.dll
+E:\JCVision\JCVision\VisionHikCamera\bin\Debug\VisionDisplayTool.dll
+E:\JCVision\JCVision\VisionHikCamera\bin\Debug\VisionInterface.dll
+E:\JCVision\JCVision\VisionHikCamera\bin\Debug\VisionUtil.dll
+E:\JCVision\JCVision\VisionHikCamera\bin\Debug\NLog.dll
+E:\JCVision\JCVision\VisionHikCamera\bin\Debug\VisionDisplayTool.pdb
+E:\JCVision\JCVision\VisionHikCamera\bin\Debug\VisionInterface.pdb
+E:\JCVision\JCVision\VisionHikCamera\bin\Debug\VisionUtil.pdb
+E:\JCVision\JCVision\VisionHikCamera\obj\Debug\VisionHikCamera.csprojResolveAssemblyReference.cache
+E:\JCVision\JCVision\VisionHikCamera\obj\Debug\VisionHikCamera.csproj.CoreCompileInputs.cache
+E:\JCVision\JCVision\VisionHikCamera\obj\Debug\VisionHikCamera.dll
+E:\JCVision\JCVision\VisionHikCamera\obj\Debug\VisionHikCamera.pdb

@@ -1,0 +1,4 @@
+E:\JCVision\JCVision\VisionBlobTool\obj\Debug\VisionBlobTool.csprojResolveAssemblyReference.cache
+E:\JCVision\JCVision\VisionBlobTool\obj\Debug\VisionBlobTool.BlobToolForm.resources
+E:\JCVision\JCVision\VisionBlobTool\obj\Debug\VisionBlobTool.csproj.GenerateResource.Cache
+E:\JCVision\JCVision\VisionBlobTool\obj\Debug\VisionBlobTool.csproj.CoreCompileInputs.cache

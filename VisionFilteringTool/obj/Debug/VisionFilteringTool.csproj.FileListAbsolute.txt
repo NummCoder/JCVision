@@ -1,0 +1,5 @@
+E:\JCVision\JCVision\VisionFilteringTool\bin\Debug\VisionFilteringTool.dll
+E:\JCVision\JCVision\VisionFilteringTool\bin\Debug\VisionFilteringTool.pdb
+E:\JCVision\JCVision\VisionFilteringTool\obj\Debug\VisionFilteringTool.csproj.CoreCompileInputs.cache
+E:\JCVision\JCVision\VisionFilteringTool\obj\Debug\VisionFilteringTool.dll
+E:\JCVision\JCVision\VisionFilteringTool\obj\Debug\VisionFilteringTool.pdb

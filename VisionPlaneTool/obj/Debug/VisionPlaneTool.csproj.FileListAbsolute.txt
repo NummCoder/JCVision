@@ -1,0 +1,5 @@
+E:\JCVision\JCVision\VisionPlaneTool\bin\Debug\VisionPlaneTool.dll
+E:\JCVision\JCVision\VisionPlaneTool\bin\Debug\VisionPlaneTool.pdb
+E:\JCVision\JCVision\VisionPlaneTool\obj\Debug\VisionPlaneTool.csproj.CoreCompileInputs.cache
+E:\JCVision\JCVision\VisionPlaneTool\obj\Debug\VisionPlaneTool.dll
+E:\JCVision\JCVision\VisionPlaneTool\obj\Debug\VisionPlaneTool.pdb

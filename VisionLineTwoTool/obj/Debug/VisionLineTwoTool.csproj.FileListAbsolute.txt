@@ -1,0 +1,5 @@
+E:\JCVision\JCVision\VisionLineTwoTool\bin\Debug\VisionLineTwoTool.dll
+E:\JCVision\JCVision\VisionLineTwoTool\bin\Debug\VisionLineTwoTool.pdb
+E:\JCVision\JCVision\VisionLineTwoTool\obj\Debug\VisionLineTwoTool.csproj.CoreCompileInputs.cache
+E:\JCVision\JCVision\VisionLineTwoTool\obj\Debug\VisionLineTwoTool.dll
+E:\JCVision\JCVision\VisionLineTwoTool\obj\Debug\VisionLineTwoTool.pdb

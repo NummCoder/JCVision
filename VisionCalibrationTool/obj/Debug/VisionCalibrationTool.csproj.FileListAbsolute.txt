@@ -1,0 +1,5 @@
+E:\JCVision\JCVision\VisionCalibrationTool\bin\Debug\VisionCalibrationTool.dll
+E:\JCVision\JCVision\VisionCalibrationTool\bin\Debug\VisionCalibrationTool.pdb
+E:\JCVision\JCVision\VisionCalibrationTool\obj\Debug\VisionCalibrationTool.csproj.CoreCompileInputs.cache
+E:\JCVision\JCVision\VisionCalibrationTool\obj\Debug\VisionCalibrationTool.dll
+E:\JCVision\JCVision\VisionCalibrationTool\obj\Debug\VisionCalibrationTool.pdb

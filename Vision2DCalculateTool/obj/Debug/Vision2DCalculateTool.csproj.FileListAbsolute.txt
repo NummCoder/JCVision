@@ -1,0 +1,5 @@
+E:\JCVision\JCVision\Vision2DCalculateTool\bin\Debug\Vision2DCalculateTool.dll
+E:\JCVision\JCVision\Vision2DCalculateTool\bin\Debug\Vision2DCalculateTool.pdb
+E:\JCVision\JCVision\Vision2DCalculateTool\obj\Debug\Vision2DCalculateTool.csproj.CoreCompileInputs.cache
+E:\JCVision\JCVision\Vision2DCalculateTool\obj\Debug\Vision2DCalculateTool.dll
+E:\JCVision\JCVision\Vision2DCalculateTool\obj\Debug\Vision2DCalculateTool.pdb

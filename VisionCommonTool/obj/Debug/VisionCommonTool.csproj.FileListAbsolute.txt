@@ -1,0 +1,5 @@
+E:\JCVision\JCVision\VisionCommonTool\bin\Debug\VisionCommonTool.dll
+E:\JCVision\JCVision\VisionCommonTool\bin\Debug\VisionCommonTool.pdb
+E:\JCVision\JCVision\VisionCommonTool\obj\Debug\VisionCommonTool.csproj.CoreCompileInputs.cache
+E:\JCVision\JCVision\VisionCommonTool\obj\Debug\VisionCommonTool.dll
+E:\JCVision\JCVision\VisionCommonTool\obj\Debug\VisionCommonTool.pdb
